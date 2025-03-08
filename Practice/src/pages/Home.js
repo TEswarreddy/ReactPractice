@@ -1,8 +1,12 @@
 import React from 'react'
+import Skill from './Skill';
 
 export const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <Skill />
+    </div>
+    
   )
 }
 
